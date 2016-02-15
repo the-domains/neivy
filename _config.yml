@@ -4,22 +4,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.8799283
 color:
   saturation: 0.5018485
-  brandStrength: 0.5035842
+  brandStrength: 0.5089605
   lightness: 0.6946132
   brandColors:
-    - '#D87791'
-    - '#271630'
-    - '#FFC6B3'
-    - '#6E4165'
+    - '#39374C'
+    - '#6E646E'
+    - '#D7D6D0'
+    - '#FBF8F2'
   rhythmicContrast: 0.6354206
+typography_spectrum: 0.8799283
 layout_spectrum: 0.0952331
 name: Neivy
