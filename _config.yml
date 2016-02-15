@@ -1,13 +1,25 @@
-layout_spectrum: 0.0952331
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8799283
 color:
   saturation: 0.5018485
-  lightness: 0.6946132
   brandStrength: 0.5035842
+  lightness: 0.6946132
   brandColors:
-    - '#39374C'
-    - '#6E646E'
-    - '#D7D6D0'
-    - '#FBF8F2'
+    - '#B491AB'
+    - '#D7B4BD'
+    - '#654D76'
+    - '#0B050E'
   rhythmicContrast: 0.6354206
-typography_spectrum: 0.8799283
+layout_spectrum: 0.0952331
 name: Neivy
