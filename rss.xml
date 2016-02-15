@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Neivy]]></title>
+        <description><![CDATA[Neivy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 21:53:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Worlds First Autofocus Adapter for Manual lenses]]></title>
+            <description><![CDATA[<article><h1>Worlds First Autofocus Adapter for Manual lenses</h1><p>The Guangzhou, China-based company Techart has officially unveiled the Techart PRO AF adapter, world's first autofocus adapter for manual focus lenses. The adapter, which was teased last month, actually lets you autofocus with lenses that don't have that ability. This first adapter is for mounting Leica M-mount lenses on Sony E-mount cameras.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/effb79eb6faabbe084ba4b84719da71b94feb7fd.jpg"></article>]]></description>
+            <link>undefinedworlds-first-autofocus-adapter-for-manual-lenses/index.html</link>
+            <guid isPermaLink="false">d4be3d60-1e9b-47d9-b309-6bd0ab4293a5</guid>
+            <pubDate>Mon, 15 Feb 2016 21:53:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
